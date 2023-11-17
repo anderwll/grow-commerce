@@ -42,8 +42,14 @@ Projeto desenvolvido em grupos utilizando tags semanticas pela 18ª edição.
     <li>Valquíria</li>
   </ul>
 
-<hr>
+<br>
 
 # Apresentação do Site
 
-<img src="./IMAGES/readme.png" alt="Imagem Readme Apresentação Site">
+<img src="./IMAGES/readme.png" alt="Imagem Readme Apresentação Site" width="400" height="550">
+
+<br>
+
+# Link da Aplicação
+
+<a href="https://anderwll.github.io/grow-commerce/" target="_blank">Grow Commerce</a>
