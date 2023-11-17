@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em grupos pela 18ª edição.
 
-# GRUPO 1:
+- GRUPO 1:
 
 Adriano Santos,
 Henrique,
@@ -10,7 +10,7 @@ Talia,
 Mateus,
 Wilson
 
-# GRUPO 2:
+- GRUPO 2:
 
 Adriano Fernandes,
 Douglas
@@ -18,7 +18,7 @@ Gabriel,
 João,
 Rafael
 
-# GRUPO 3:
+- GRUPO 3:
 
 Dionata,
 Eduardo,
@@ -26,7 +26,7 @@ Hugo,
 Yuri
 Michael
 
-# GRUPO 4:
+- GRUPO 4:
 
 Dioni,
 Cristiane,
