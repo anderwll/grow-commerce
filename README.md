@@ -2,37 +2,45 @@
 
 Projeto desenvolvido em grupos pela 18ª edição.
 
-- GRUPO 1:
+<h6>GRUPO 1: </h6>
 
-1 - Adriano Santos,
-2 - Henrique,
-3 - Talia,
-4 - Mateus,
-5 - Wilson
+<ul>
+    <li>Adriano Santos</li>
+    <li>Henrique</li>
+    <li>Talia</li>
+    <li>Mateus</li>
+    <li>Wilson</li>
+</ul>
 
-- GRUPO 2:
+<h6>GRUPO 2: </h6>
 
-1 - Adriano Fernandes,
-2 - Douglas
-3 - Gabriel,
-4 - João,
-5 - Rafael
+<ul>
+    <li>Adriano Fernandes</li>
+    <li>Douglas</li>
+    <li>Gabriel</li>
+    <li>João</li>
+    <li>Rafael</li>
+</ul>
 
-- GRUPO 3:
+<h6>GRUPO 3: </h6>
 
-1 - Dionata,
-2 - Eduardo,
-3 - Hugo,
-4 - Yuri
-5 - Michael
+<ul>
+    <li>Dionata</li>
+    <li>Eduardo</li>
+    <li>Hugo</li>
+    <li>Yuri</li>
+    <li>Michael</li>
+</ul>
 
-- GRUPO 4:
+<h6>GRUPO 4: </h6>
 
-1 - Dioni,
-2 - Cristiane,
-3 - Eder,
-4 - Luciano,
-5 - Valquíria
+<ul>
+    <li>Dioni</li>
+    <li>Cristiane</li>
+    <li>Eder</li>
+    <li>Luciano</li>
+    <li>Valquíria</li>
+</ul>
 
 <hr>
 
