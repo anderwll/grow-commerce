@@ -46,4 +46,4 @@ Projeto desenvolvido em grupos utilizando tags semanticas pela 18ª edição.
 
 # Apresentação do Site
 
-<img src="./images/readme.png" alt="Imagem Readme Apresentação Site">
+<img src="./IMAGES/readme.png" alt="Imagem Readme Apresentação Site">
