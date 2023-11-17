@@ -1,38 +1,38 @@
-## grow-commerce
+## GROW - COMMERCE
 
 Projeto desenvolvido em grupos pela 18ª edição.
 
 - GRUPO 1:
 
-Adriano Santos,
-Henrique,
-Talia,
-Mateus,
-Wilson
+1 - Adriano Santos,
+2 - Henrique,
+3 - Talia,
+4 - Mateus,
+5 - Wilson
 
 - GRUPO 2:
 
-Adriano Fernandes,
-Douglas
-Gabriel,
-João,
-Rafael
+1 - Adriano Fernandes,
+2 - Douglas
+3 - Gabriel,
+4 - João,
+5 - Rafael
 
 - GRUPO 3:
 
-Dionata,
-Eduardo,
-Hugo,
-Yuri
-Michael
+1 - Dionata,
+2 - Eduardo,
+3 - Hugo,
+4 - Yuri
+5 - Michael
 
 - GRUPO 4:
 
-Dioni,
-Cristiane,
-Eder,
-Luciano,
-Valquíria
+1 - Dioni,
+2 - Cristiane,
+3 - Eder,
+4 - Luciano,
+5 - Valquíria
 
 <hr>
 
