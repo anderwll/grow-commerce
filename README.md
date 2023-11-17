@@ -40,7 +40,7 @@ Projeto desenvolvido em grupos utilizando tags semanticas pela 18ª edição.
     <li>Eder</li>
     <li>Luciano</li>
     <li>Valquíria</li>
-</ul>
+  </ul>
 
 <hr>
 
