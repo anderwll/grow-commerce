@@ -44,12 +44,12 @@ Projeto desenvolvido em grupos utilizando tags semanticas pela 18ª edição.
 
 <br>
 
-# Apresentação do Site
+# Apresentação 
 
 <img src="./IMAGES/readme.png" alt="Imagem Readme Apresentação Site" width="400" height="550">
 
 <br>
 
-# Link da Aplicação
+# Link
 
 <a href="https://anderwll.github.io/grow-commerce/" target="_blank">Grow Commerce</a>
