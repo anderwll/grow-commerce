@@ -1,6 +1,6 @@
 ## GROW - COMMERCE
 
-Projeto desenvolvido em grupos pela 18ª edição.
+Projeto desenvolvido em grupos utilizando tags semanticas pela 18ª edição.
 
 <h6>GRUPO 1: </h6>
 
